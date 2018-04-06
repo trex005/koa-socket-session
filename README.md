@@ -16,7 +16,7 @@ $ npm install koa-socket-session
 ```js
 var koa = require('koa');
 var koaSession = require('koa-session');
-var koaSocketSession require('koa-socket-session');
+var koaSocketSession = require('koa-socket-session');
 var IO = require('koa-socket.io');
 const http = require('http');
 
